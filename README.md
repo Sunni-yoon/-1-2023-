@@ -24,10 +24,10 @@
 
 ###  성능
 
-| Command    | Description                                    | Precision |
-| ---------- | ---------------------------------------------- | -------   |
-| git status | List all new or modified files                 |           |
-| git diff   | Show file differences that haven't been staged |           |
+| Command    | Description   | Precision| Recall  |
+| ---------- | ------------- | -------  | ------- |
+| 0.4117     |  0.03429      |  0.0175  |  0.7813 |
+
 
 | Accuracy_score | F1_score | Precision | Recall |
 | -------------- | -------- | --------- | -------|
