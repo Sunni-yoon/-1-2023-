@@ -23,6 +23,11 @@
 6. Regression, Desicion Tree, RandomForest 작업을 수행
 
 ###  성능
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
+출처: https://young-cow.tistory.com/25 [어린소:티스토리]
 - Logistic Regiression
 | Accuracy_score | F1_score | Precision | Recall |
 | -------------- | -------- | --------- | ------|
