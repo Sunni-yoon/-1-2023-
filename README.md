@@ -21,8 +21,10 @@
 4. 대전,세종,충남 지역의 다른 이름의 경찰서들을 ‘대전’,‘세종’,‘충남’ 으로 그룹화
 5. 데이터를 train 과 test 로 나눔
 6. Logistic Regression, Desicion Tree, RandomForest 작업을 수행
+7. 
+<br/>
 
-***성능***
+**성능**
 
 Logistic Regression
 
@@ -31,16 +33,17 @@ Logistic Regression
 | 0.4117     |  0.03429      |  0.0175  |  0.7813 |
 
 
-- Decison Tree
+Decison Tree
+
 | Command    | Description   | Precision| Recall  |
 | ---------- | ------------- | -------  | ------- |
 | 0.4123     |  0.0344       |  0.0176  |  0.7836 |
   
-- Random Foreset
+Random Foreset
+
 | Command    | Description   | Precision| Recall  |
 | ---------- | ------------- | -------  | ------- |
 | 0.4123     |  0.0344       |  0.0176  |  0.7836 |
 
 
-- **Note that the details of training configuration which are not mentioned in this document and the comments can be defined yourself.** For example, decide how many epochs you will train the model.
 
