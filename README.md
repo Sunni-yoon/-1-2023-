@@ -24,7 +24,8 @@
 
 ***성능***
 
-- Logistic Regression
+Logistic Regression
+
 | Command    | Description   | Precision| Recall  |
 | ---------- | ------------- | -------  | ------- |
 | 0.4117     |  0.03429      |  0.0175  |  0.7813 |
