@@ -28,7 +28,7 @@
 - Logistic Regiression
 | Accuracy_score | F1_score | Precision | Recall |
 | -------------- | -------- | --------- | -------|
-| 0.4117 | 0.03429 | 0.0175 | 0.7813 |
+| 0.4117         | 0.03429  | 0.0175    | 0.7813 |
 
 - Decison Tree
 - Random Foreset
